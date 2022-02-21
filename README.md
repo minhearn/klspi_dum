@@ -8,10 +8,6 @@ The code is without comments and not clean-written. The newer version will be up
   <li> Other Python packages: numPy, pandas, matplotlib, sciPy</li>
 </ul>
 <h2>How to Run</h2>
-```
-$ python3 klspi_pendulum_v1.py
-```
-or ```
-$ python klspi_pendulum_v1.y
-```
+
+````$ python3 klspi_pendulum_v1.py```` or ````$ python klspi_pendulum_v1.y````
 
